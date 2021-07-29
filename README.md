@@ -8,7 +8,7 @@ I will be using [`fastai`](https://github.com/fastai/fastai) for these competiti
 I use `conda` to setup my environment on a Debian machine,
 
 ```python
-conda install -c fastai pytorch fastai
+conda install -c fastchan fastai
 ```
 
 
