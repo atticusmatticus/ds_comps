@@ -4,3 +4,4 @@ plant_resnet18.pkl
 plant_resnet34.pkl
 plant_resnet50.pkl
 plant_resnet101.pkl
+plant_resnet152.pkl
